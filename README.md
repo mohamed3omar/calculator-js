@@ -1,3 +1,3 @@
 # calculator-js
 
-## caculator using vanilia javaScript
+# Caculator using vanilla javaScript
